@@ -10,11 +10,13 @@ export const Wireframe = () => {
           src="/img/image-6.png"
         />
 
-        <img
-          className="absolute w-[85px] h-[113px] top-[60px] left-[1283px]"
-          alt="Image"
-          src="/img/image-8.png"
-        />
+        <a href="https://linktr.ee/PrimateVisual" target="_blank" rel="noopener noreferrer">
+          <img
+              className="absolute w-[85px] h-[113px] top-[60px] left-[1283px]"
+              alt="Image"
+              src="/img/image-8.png"
+          />
+        </a>
 
         <img
           className="top-[273px] left-[33px] absolute w-[600px] h-0.5"
